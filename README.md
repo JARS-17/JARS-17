@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jars! 👋
 
 I'm JARS from indonesian, and I do learn on design and development. I really enjoy learning languages and framework like React and React Natiive.
 Nice To Meet You Everyone !!
