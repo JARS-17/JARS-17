@@ -1,7 +1,8 @@
 ### Hi, I'm Jars! 👋
 
-# 💫 About Me:
+#  About Me:
 🔭 I’m JARS, I really enjoy learning data,  and web development<br>👯 I’m looking to collaborate on Project<br>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/eN8sq5Vj) 
@@ -14,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JARS-17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JARS-17&icon=0&color=0)](https://visitcount.itsvg.in)
