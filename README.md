@@ -1,5 +1,5 @@
 ### Hi, I'm Jars! 👋
-🔭 I’m JARS, I really enjoy learning data,  and web development<br>👯 I’m looking to collaborate on Project<br>
+🔭 I really enjoy learning data,  and web development<br>👯 I’m looking to collaborate on Project<br>
 
 
 ## 🌐 Socials:
