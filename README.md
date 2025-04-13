@@ -1,6 +1,6 @@
 ## Hi, I'm Jars! 👋
-🔭 I really enjoy learning data,  and web development<br>👯 I’m looking to collaborate on Project<br>
-
+🔭 I’m passionate about learning Data Science and Web Development
+<br>👯 I’m open to collaborating on data-driven and web-based projects<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/eN8sq5Vj) 
