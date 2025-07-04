@@ -1,12 +1,12 @@
-# Hello There! I'm Jars 👋
+## Hello There! I'm Jars 👋
 
-### About Me
+### 👨‍💻About Me
 
 I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
 
 ---
 
-### 💻 Tech Stack
+### 💻Tech Stack
 
 Here are some of the technologies and areas I'm proficient in and actively using:
 <div align="left">
@@ -42,7 +42,7 @@ Here are some of the technologies and areas I'm proficient in and actively using
 
 ---
 
-### What I'm Currently Working On
+### 🎯What I'm Currently Working On
 
 Currently, my focus is on:
 -   Developing personal full-stack projects using Next.js and Node.js, often involving data visualization integration.
@@ -62,16 +62,10 @@ I'm open to collaborations and discussions on exciting projects, especially thos
 
 ---
 
-**Thanks for stopping by!** 🙏
-
-### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JARS-17&theme=dark&hide_border=false)<br/>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JARS-17&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 <br clear="both"> 
