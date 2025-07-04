@@ -1,4 +1,4 @@
-![github-header-image (7)](https://github.com/user-attachments/assets/5418976b-c223-47cb-bd6e-02e59774c549)
+#Hi Guys! I am Fajar 
 
 ## 💫 About Me:
 I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
@@ -26,5 +26,7 @@ I'm a passionate **Data Science student** with a deep enthusiasm for **Web Devel
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jars174) 
 
 [![](https://visitcount.itsvg.in/api?id=jars-17\&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+
+##
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JARS-17
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
