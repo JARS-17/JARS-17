@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/user-attachments/assets/cf34fadf-86a0-4c8f-bea0-e6548bbcf899)
 ## 💫 About Me:
 I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
 
@@ -19,11 +20,6 @@ I'm a passionate **Data Science student** with a deep enthusiasm for **Web Devel
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=jars-17\&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jars-17\&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jars174) 
