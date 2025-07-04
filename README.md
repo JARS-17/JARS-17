@@ -11,30 +11,36 @@ I'm a passionate **Data Science student** with a deep enthusiasm for **Web Devel
 ### My Skill Set
 
 Here are some of the technologies and areas I'm proficient in and actively using:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-**Web Development (Frontend & Backend):**
--   **JavaScript (ES6+)** 🚀
--   **React.js** ✨
--   **Next.js** ⚡
--   **Vite** 🏎️
--   **HTML5** & **CSS3**
--   **Tailwind CSS** 🎨
--   **Node.js** ⚙️
--   **Express.js** 🌐
--   **RESTful APIs** 🔌
-
-**Data Science & Analytics (as a student):**
--   **Python** (for data analysis, ML) 🐍
--   **Pandas** & **NumPy** (data manipulation) 📊
--   **Matplotlib** & **Seaborn** (data visualization) 📈
--   **Basic Machine Learning Concepts** (e.g., regression, classification) 🤖
--   **SQL** (for databases) 🗄️
-
-**Design & Tools:**
--   **Figma** (for UI/UX design) 🖌️
--   **Git** & **GitHub** 🐙
--   **npm** & **Yarn** 📦
--   **Visual Studio Code** 💻
 
 ---
 
@@ -60,11 +66,13 @@ I'm open to collaborations and discussions on exciting projects, especially thos
 **Thanks for stopping by!** 🙏
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JARS-17&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JARS-17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JARS-17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JARS-17&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+<br clear="both"> 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
