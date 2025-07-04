@@ -1,14 +1,12 @@
 # Hello There! I'm Jars 👋
 
----
-
 ### About Me
 
 I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
 
 ---
 
-### My Skill Set
+### 💻 Tech Stack
 
 Here are some of the technologies and areas I'm proficient in and actively using:
 <div align="left">
@@ -61,6 +59,7 @@ I'm open to collaborations and discussions on exciting projects, especially thos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/eN8sq5Vj)
+
 ---
 
 **Thanks for stopping by!** 🙏
@@ -72,7 +71,9 @@ I'm open to collaborations and discussions on exciting projects, especially thos
 ---
 [![](https://visitcount.itsvg.in/api?id=JARS-17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+
+
+
 <br clear="both"> 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
