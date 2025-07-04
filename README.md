@@ -1,5 +1,5 @@
 ## 💫 About Me:
-<br>I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
+I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
 
 
 ## 🌐 Socials:
@@ -19,7 +19,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jars-17\&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jars-17\&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jars-17\&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
