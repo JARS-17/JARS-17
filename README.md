@@ -1,4 +1,4 @@
-#Hi Guys! I am Fajar 
+# Hi Guys! I am Fajar 
 
 ## 💫 About Me:
 I'm a passionate **Data Science student** with a deep enthusiasm for **Web Development**, particularly within the modern JavaScript ecosystem. I love building interactive, responsive, and performant web applications, from the frontend to the backend. With my Data Science background, I'm also keen on exploring how data can be effectively integrated and visualized within web applications, and how machine learning models can be deployed. I'm always eager to learn new technologies and create elegant solutions for real-world problems.
